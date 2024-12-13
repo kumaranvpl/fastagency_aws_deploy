@@ -1,0 +1,1 @@
+gunicorn fastagency_aws_deploy.local.main_mesop:app
